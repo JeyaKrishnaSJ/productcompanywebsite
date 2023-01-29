@@ -740,7 +740,9 @@ body {
 ![Screenshot (73)](https://user-images.githubusercontent.com/118707091/215313178-29ae4197-17bc-4fd8-b916-5cafb26307a5.png)
 ![Screenshot (74)](https://user-images.githubusercontent.com/118707091/215313191-c89a5f7b-cf46-43ad-8443-f4611f630b77.png)
 ### Contact Us page
-![Screenshot (75)](https://user-images.githubusercontent.com/118707091/215313198-19038abf-fba3-4ca4-959c-5826b50416ee.png)
+
+![Screenshot (77)](https://user-images.githubusercontent.com/118707091/215315171-154e3c86-318d-491d-817f-582c0d249c54.png)
+
 ### HTML Validation
 
 ![Screenshot (76)](https://user-images.githubusercontent.com/118707091/215313454-20cb7bb5-6ceb-467a-955b-5f92898535d9.png)
